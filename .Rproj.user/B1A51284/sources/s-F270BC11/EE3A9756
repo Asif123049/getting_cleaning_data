@@ -1,0 +1,32 @@
+{
+    "id": "EE3A9756",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1597212801234.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "FinalData",
+        "caption": "FinalData",
+        "totalObservations": 180,
+        "displayedObservations": 180,
+        "variables": 88,
+        "cacheKey": "B3C58CED",
+        "object": "FinalData",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=FinalData&cache_key=B3C58CED&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7143307332886346274,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1597212801234,
+    "read_only": false,
+    "read_only_alternatives": []
+}
